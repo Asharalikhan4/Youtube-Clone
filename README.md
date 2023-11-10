@@ -9,7 +9,7 @@ This project is a YouTube clone built using React and Redux Toolkit. It replicat
 - React: Used as the primary front-end library.
 - Redux Toolkit: For state management.
 - React Router: For routing within the application.
-- Parcel: The bundler used for the project.
+- Webpack: The bundler used for the project.
 - Babel: As the transcompiler for modern JavaScript.
 
 ### Project Structure
